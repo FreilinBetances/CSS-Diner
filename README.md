@@ -1,4 +1,4 @@
-Aquí tienes un resumen de lo que hace cada uno de los selectores en CSS Diner:
+Prueba de lo que hace cada uno de los selectores en CSS Diner:
 
 1. **A**  
    Selecciona todos los elementos `<A>`.
